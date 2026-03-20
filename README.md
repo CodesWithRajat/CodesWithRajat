@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Rajat Sinha 👋<br>🎓 Final-year Computer Science student at KIIT<br>💻 Full-stack developer (MERN + Java)<br>🚀 Passionate about building scalable web applications<br>🧠 Solved 250+ DSA problems on LeetCode<br>🏭 Ex-Web Development Intern at Tata Steel<br><br>📫 Reach me at: [rajatsinha0007@gmail.com](mailto:rajatsinha0007@gmail.com)<br>🔗 LinkedIn: linkedin.com/in/rajatsinha0007<br>
+Hi, I’m Rajat Sinha 👋<br>🎓 Final-year Computer Science student at KIIT<br>💻 Full-stack developer (MERN + Java)<br>🚀 Passionate about building scalable web applications<br>🧠 Solved 257+ DSA problems on LeetCode<br>🏭 Ex-Web Development Intern at Tata Steel<br><br>📫 Reach me at: [rajatsinha0007@gmail.com](mailto:rajatsinha0007@gmail.com)<br>🔗 LinkedIn: linkedin.com/in/rajatsinha0007<br>
 
 
 ## 🌐 Socials:
